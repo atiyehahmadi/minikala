@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url(assets/fonts/2-IranYekan/iranyekanweb.css);
+
+body {
+  max-width: 1900px;
+  margin: auto;
+  background-color: white;
+  font-family: 'iranyekanweblight';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+select {
+  background-position: left 0.5rem center !important;
+
+}

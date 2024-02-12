@@ -1,0 +1,26 @@
+[
+  {
+    "img": "images/supermarketBanner/rice.jpg",
+    "offPercent": "31%"
+  },
+  {
+    "img": "images/supermarketBanner/doogh.jpg",
+    "offPercent": "11%"
+  },
+  {
+    "img": "images/supermarketBanner/lemon.jpg",
+    "offPercent": "30%"
+  },
+  {
+    "img": "images/supermarketBanner/shampoo.jpg",
+    "offPercent": "24%"
+  },
+  {
+    "img": "images/supermarketBanner/shrimp.jpg",
+    "offPercent": "18%"
+  },
+  {
+    "img": "images/supermarketBanner/rice.jpg",
+    "offPercent": "28%"
+  }
+]

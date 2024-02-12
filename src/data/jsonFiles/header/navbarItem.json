@@ -1,0 +1,32 @@
+[
+  {
+    "text": "سوپرمارکت",
+    "icon": "https://img.icons8.com/pulsar-line/48/ingredients.png",
+    "path": "product"
+  },
+  {
+    "text": "پرفروش ترین‌ها",
+    "icon": "https://img.icons8.com/pulsar-line/48/fire-element.png",
+    "path": "/"
+  },
+  {
+    "text": "تخفیف‌ها و پیشنهادها",
+    "icon": "https://img.icons8.com/pulsar-line/48/discount.png",
+    "path": "/"
+  },
+  {
+    "text": "شگفت انگیزها",
+    "icon": "https://img.icons8.com/pulsar-line/48/gift.png",
+    "path": "/"
+  },
+  {
+    "text": "سوالی دارید؟",
+    "icon": "https://img.icons8.com/pulsar-line/48/help.png",
+    "path": "/"
+  },
+  {
+    "text": "در مینی‌کالا بفروشید",
+    "icon": "https://img.icons8.com/pulsar-line/48/shopping-mall.png",
+    "path": "/"
+  }
+]

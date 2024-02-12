@@ -1,0 +1,18 @@
+/* Webfont: IRANSansWeb */
+@font-face {
+	font-family: 'IRANSansWeb';
+	src: url('IRANSansWeb.eot');
+	/* IE9 Compat Modes */
+	src: url('IRANSansWeb.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */
+		url('IRANSansWeb.woff2') format('woff2'),
+		/* Modern Browsers */
+		url('IRANSansWeb.woff') format('woff'),
+		/* Open Type Font */
+		url('IRANSansWeb.ttf') format('truetype');
+	/* Safari, Android, iOS */
+	font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeLegibility;
+	font-display: auto;
+}

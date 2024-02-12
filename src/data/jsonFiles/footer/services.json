@@ -1,0 +1,23 @@
+[
+  {
+    "img": "images/footer/services/express-delivery.svg",
+    "title": "امکان تحویل اکسپرس"
+  },
+  {
+    "img": "images/footer/services/cash-on-delivery.svg",
+    "title": "امکان تحویل در محل"
+  },
+  {
+    "img": "images/footer/services/support.svg",
+    "title": "7 روز هفته، 24 ساعته"
+  },
+  {
+    "img": "images/footer/services/days-return.svg",
+    "title": "هفت روز ضمانت بازگشت کالا"
+  },
+
+  {
+    "img": "images/footer/services/original-products.svg",
+    "title": "ضمانت اصل بودن کالا"
+  }
+]

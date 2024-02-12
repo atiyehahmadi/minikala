@@ -1,0 +1,50 @@
+[
+  {
+    "title": "هدفون، هدست و ...",
+    "img": "images/offers/headset.jpg"
+  },
+  {
+    "title": "گوشی موبایل",
+    "img": "images/offers/phone.jpg"
+  },
+  {
+    "title": "کنسول خانگی",
+    "img": "images/offers/consol.jpg"
+  },
+  {
+    "title": "جوراب مردانه",
+    "img": "images/offers/socks.jpg"
+  },
+  {
+    "title": "سرخ کن",
+    "img": "images/offers/airfrier.jpg"
+  },
+  {
+    "title": "اصلاح مو صورت",
+    "img": "images/offers/shave.jpg"
+  },
+  {
+    "title": "هدفون، هدست و ...",
+    "img": "images/offers/airpod.jpg"
+  },
+  {
+    "title": "مکمل دارویی",
+    "img": "images/offers/vitamin.jpg"
+  },
+  {
+    "title": "تبلت",
+    "img": "images/offers/tablet.jpg"
+  },
+  {
+    "title": "عروسک",
+    "img": "images/offers/doll.jpg"
+  },
+  {
+    "title": "اسپیکر (بلندگو)",
+    "img": "images/offers/speeker.jpg"
+  },
+  {
+    "title": "ساعت هوشمند",
+    "img": "images/offers/watch.jpg"
+  }
+]

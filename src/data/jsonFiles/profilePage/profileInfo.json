@@ -1,0 +1,27 @@
+[
+  {
+    "name": "سفارش",
+    "icon": "https://img.icons8.com/pulsar-line/48/shopping-bag.png",
+    "path": "/profile/shopping-history"
+  },
+  {
+    "name": "آدرس",
+    "icon": "https://img.icons8.com/pulsar-line/48/location.png",
+    "path": "/profile/address"
+  },
+  {
+    "name": "پیام",
+    "icon": "https://img.icons8.com/pulsar-line/48/appointment-reminders.png",
+    "path": "/profile/message"
+  },
+  {
+    "name": "کدهای تخفیف",
+    "icon": "https://img.icons8.com/pulsar-line/48/overstock-sale.png",
+    "path": "/profile/discounts"
+  },
+  {
+    "name": "تماس با پشتیبانی",
+    "icon": "https://img.icons8.com/pulsar-line/48/headset.png",
+    "path": "/profile/support"
+  }
+]
